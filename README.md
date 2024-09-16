@@ -1,9 +1,9 @@
 # Camera-Based Occupancy Sensing Using AI for Smart Home Applications
 
 ## Description
-Since the onset of modern housing technology, it has undergone serious changes that facilitate innovation compliant with user’s application, safety, and other factors. One example is that AI-based Camera-based Occupancy Sensing leads the way in capturing data on the presence and absence of individuals within homes. Our project utilizes state-of-the-art Convolutional Neural Networks (CNNs) such as ResNet50, MobileNet V3, EfficientNet B0, MobileNet V2, and MobileNet V3 Small to come up with an advanced real-time occupancy detection system.
+Since the emergence of modern housing technologies, significant advancements have taken place, driving innovation in alignment with user needs, safety protocols, and other key considerations. A notable example is AI-powered camera-based occupancy detection, which excels at tracking the presence or absence of individuals in homes. Our project leverages cutting-edge Convolutional Neural Networks (CNNs) like ResNet50, MobileNet V3, EfficientNet B0, and MobileNet V2 to create a sophisticated real-time system for occupancy detection.
 
-To develop this system, we employed various data types of videos taken from different sources including treating hospitals and some other spaces to train the model comprehensively. Our computational configuration was furnished with robust processing and graphics capabilities that supplied adequate facilities for demanding image processing operations. A complex optimization technique was used for optimizing our models that improved their precision and functioning dramatically.
+To build this system, we used a variety of video data from multiple sources, including hospitals and other indoor environments, to thoroughly train the model. Our computational setup was equipped with powerful processors and graphics cards capable of handling complex image processing tasks. We applied advanced optimization techniques to fine-tune our models, significantly enhancing their accuracy and performance.
 
 
 
